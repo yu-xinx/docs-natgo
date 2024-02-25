@@ -32,7 +32,7 @@ import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
 > 重试即可
 
 ## 提示NatGo 客户端 已停止工作 怎么办？
-> 可以参考[【此链接】](https://zhidao.baidu.com/question/1366465077364459979.html)
+> 可以参考[【此链接】](./data_execution_prevention)
 
 ## 我的世界提示登录失败：无效的会话怎么办？
 > 因为服务端那边开启了正版验证、或者是联机时用户未使用正版用户登陆游戏，解决方法:1、服务端关闭正版验证功能 2、如果是联机、请确保联机的用户是正版用户或使用了外置登录功能 也可以安装相关联机mod关闭验证功能
