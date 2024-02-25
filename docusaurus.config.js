@@ -91,7 +91,7 @@ const config = {
           // },
           // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'http://NatGo.idc25.cn',
+            href: 'https://natgo.cn',
             label: '返回官网',
             position: 'right',
           },
@@ -110,7 +110,7 @@ const config = {
             items: [
               {
                 label: 'QQ群',
-                href: 'https://jq.qq.com/?_wv=1027&k=xniHysmW',
+                href: 'https://qm.qq.com/q/4bP9qW05G0',
               },
               {
                 label: 'QQ频道',
